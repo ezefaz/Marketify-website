@@ -1,6 +1,6 @@
 # Marketify
 
-![Project Image](https://i.gyazo.com/82d6c93e0d905a7d1751f5369481f194.png)
+![Project Image](https://i.gyazo.com/6f0f68870d71a1a4fbf7b63ed9af41a7.png)
 
 > This is a preview of what you are going to find here: https://ezefaz.github.io/portfolio/.
 ---
