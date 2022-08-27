@@ -1,0 +1,27 @@
+.gpt3__scroll {
+    max-width: 100vw;
+}
+
+.gpt3__scroll a {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    background-color: var(--color-footer);
+    padding: 1rem;
+    border-radius: 100%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    transition: 0.4s ease-in-out;
+    z-index: 1;
+}
+
+.gpt3__scroll svg {
+    color: white;
+    font-size: 1.3rem;
+}
+
+.none {
+    opacity: 0;
+    visibility: hidden;
+}
