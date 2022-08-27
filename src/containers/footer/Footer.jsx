@@ -1,6 +1,5 @@
 import React from 'react';
 import './footer.css';
-import gpt3Logo from '../../assets/marketify-logito.png';
 
 const Footer = () => {
   return (

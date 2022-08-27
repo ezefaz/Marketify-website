@@ -20,13 +20,13 @@ const articleData = [
   },
   {
     imageUrl: blog04,
-    date: 'Jun 21, 2022',
-    title: 'The Beginner’s Introduction to Advanced Remarketing'
+    date: 'Dec 20, 2021',
+    title: 'Making Search Query Reports Efficient and Effective'
   },
   {
     imageUrl: blog05,
-    date: 'Jun 21, 2022',
-    title: 'The Beginner’s Introduction to Advanced Remarketing'
+    date: 'Nov 21, 2021',
+    title: 'Startups And Scaleups: Speeding Up Innovation During Times of Crisis'
   },
 
 ]
