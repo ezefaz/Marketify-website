@@ -24,7 +24,7 @@ Welcome to my personal portfolio website, in here, you have diverse information 
 
 - React
 - Framer-Motion
-- Pure CSSS and Grid & FlexBox
+- CSS and Grid & FlexBox
 
 [Back To The Top](#Marketify)
 
