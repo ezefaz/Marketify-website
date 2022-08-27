@@ -18,7 +18,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Welcome to my personal portfolio website, in here, you have diverse information about me, like what type of services I offer, my recent projects, my working hours and a contact form for reaching me out. 
+Marketify is a website specialized on startups grow. You can find diferent digital marketing services, join the platform and grow your business. 
 
 #### Technologies
 
